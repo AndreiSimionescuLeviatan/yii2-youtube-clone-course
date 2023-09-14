@@ -1,0 +1,19 @@
+/*html, body{*/
+/*    height: 100%;*/
+/*    background-color: red;*/
+/*}*/
+
+.nav-pills .nav-link{
+    border-radius: 0;
+    color: #6a1a21!important;
+}
+
+.nav-pills .nav-link:hover{
+    background: #6a1a21;
+}
+
+.nav-pills .nav-link.active{
+    background: #6a1a21;
+    color: #6a1a21;
+    border-left: 4px solid #b90000;
+}
